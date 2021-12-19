@@ -3,7 +3,7 @@
     "displayName": "nightsky",
     "description": "the outfit of source code",
     "version": "0.0.1",
-    "publisher": "dayanandaksh",
+    "publisher": "dayandaksh",
     "repository": {
         "type": "git",
         "url": "https://github.com/Dayanda-Ksh/dark-them.git"
@@ -14,7 +14,8 @@
         "dayanandaksh",
         "nightsky",
         "colourful theme",
-        "the outfit of source code"
+        "the outfit of source code",
+        "dayandaksh"
     ],
     "engines": {
         "vscode": "^1.63.0"
